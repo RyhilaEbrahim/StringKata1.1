@@ -1,0 +1,7 @@
+c:\users\ryhila\documents\visual studio 2015\Projects\TestStringCalculator\TestStringCalculator\bin\Debug\TestStringCalculator.dll
+c:\users\ryhila\documents\visual studio 2015\Projects\TestStringCalculator\TestStringCalculator\bin\Debug\TestStringCalculator.pdb
+c:\users\ryhila\documents\visual studio 2015\Projects\TestStringCalculator\TestStringCalculator\bin\Debug\nunit.framework.dll
+c:\users\ryhila\documents\visual studio 2015\Projects\TestStringCalculator\TestStringCalculator\bin\Debug\nunit.framework.xml
+c:\users\ryhila\documents\visual studio 2015\Projects\TestStringCalculator\TestStringCalculator\obj\Debug\TestStringCalculator.csprojResolveAssemblyReference.cache
+c:\users\ryhila\documents\visual studio 2015\Projects\TestStringCalculator\TestStringCalculator\obj\Debug\TestStringCalculator.dll
+c:\users\ryhila\documents\visual studio 2015\Projects\TestStringCalculator\TestStringCalculator\obj\Debug\TestStringCalculator.pdb
